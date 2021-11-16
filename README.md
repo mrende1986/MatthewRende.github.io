@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mrende1986
-- 👀 I’m interested in creating powerful analytics to provide business insights
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Matthew Rende and this is my portfolio of data projects.
 - 📫 How to reach me: mrende@gmail.com
 
 <!---
