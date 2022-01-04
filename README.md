@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Matt Rende and this is my portfolio of data projects. I have experience in Corporate Philanthropy, Software Development and Project Management.
-- 📫 How to reach me: mrende@gmail.com
+👋 Hi, I’m Matt Rende and this is my portfolio of data projects. I have experience in Corporate Philanthropy, Software Development and Project Management.
 
 When I'm not working, you can often find me coding, playing piano, surfing, learning new skills, and honing my skills on various areas including Machine Learning, Data Science and Data Visualization projects.
 
@@ -11,6 +10,7 @@ I love working with different technologies & platforms and my current favorite o
 
 •	Tableau
 
+📫 How to reach me: mrende@gmail.com
 
 <!---
 mrende1986/mrende1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
