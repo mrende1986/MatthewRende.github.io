@@ -4,8 +4,11 @@
 When I'm not working, you can often find me coding, playing piano, surfing, learning new skills, and honing my skills on various areas including Machine Learning, Data Science and Data Visualization projects.
 
 I love working with different technologies & platforms and my current favorite ones are
+
 •	SQL
+
 •	Python
+
 •	Tableau
 
 
