@@ -13,7 +13,7 @@ I love working with different technologies & platforms and my current favorite o
 📫 How to reach me: mrende@gmail.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-rende)](https://www.linkedin.com/in/matthew-rende/)
-[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/#!/)](https://public.tableau.com/profile/#!/)
+[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/profile/matthew.rende/)](https://public.tableau.com/app/profile/matthew.rende/)
 
 <!---
 mrende1986/mrende1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
